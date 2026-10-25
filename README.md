@@ -17,7 +17,6 @@
 
 I'm a full-stack developer who loves building things end-to-end — from snappy Next.js frontends to scalable Node.js backends. I'm drawn to developer tooling, real-time systems, and AI/LLM-powered applications. I also dabble in Web3 and mobile development.
 
-- 🔭 Currently building [**OpenSlop**](https://github.com/priyanshuguptadev/openslop) — an open-source, vendor-lock-in-free terminal coding agent
 - 🌐 Check out my work at [pryns.me](https://pryns.me)
 - 💬 Reach me at [realpriyanshugupta@gmail.com](mailto:realpriyanshugupta@gmail.com)
 
