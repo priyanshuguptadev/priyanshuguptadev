@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://priyanshugupta.space" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://pryns.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/priyanshuguptadev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:realpriyanshugupta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://go.priyanshugupta.space/resume"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white" alt="Resume"/></a>
+  <a href="https://resume.pryns.me"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white" alt="Resume"/></a>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 I'm a full-stack developer who loves building things end-to-end — from snappy Next.js frontends to scalable Node.js backends. I'm drawn to developer tooling, real-time systems, and AI/LLM-powered applications. I also dabble in Web3 and mobile development.
 
 - 🔭 Currently building [**OpenSlop**](https://github.com/priyanshuguptadev/openslop) — an open-source, vendor-lock-in-free terminal coding agent
-- 🌐 Check out my work at [priyanshugupta.space](https://priyanshugupta.space)
+- 🌐 Check out my work at [pryns.me](https://pryns.me)
 - 💬 Reach me at [realpriyanshugupta@gmail.com](mailto:realpriyanshugupta@gmail.com)
 
 ---
@@ -48,7 +48,7 @@ I'm a full-stack developer who loves building things end-to-end — from snappy 
 
 ### 📬 How to Reach Me
 
-- 🌐 Portfolio — [priyanshugupta.space](https://priyanshugupta.space)
+- 🌐 Portfolio — [pryns.me](https://pryns.me)
 - 💼 LinkedIn — [priyanshuguptadev](https://www.linkedin.com/in/priyanshuguptadev)
-- 📄 Resume — [go.priyanshugupta.space/resume](https://go.priyanshugupta.space/resume)
+- 📄 Resume — [resume.pryns.me](https://resume.pryns.me)
 - 📧 Email — [realpriyanshugupta@gmail.com](mailto:realpriyanshugupta@gmail.com)
